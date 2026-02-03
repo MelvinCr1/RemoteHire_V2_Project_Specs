@@ -77,7 +77,7 @@ Pour répondre aux exigences de performance (ENF), l'architecture retenue est la
 
 Le Cahier des Charges détaillé est disponible au format PDF.
 
-[**➡️ Télécharger le Cahier des Charges (PDF)**](docs/4CACH_Cahier_des_charges_RemoteHireV2.pdf)
+[**➡️ Télécharger le Cahier des Charges (PDF)**](docs/4CACH_cahier_des_charges_RemoteHireV2.pdf)
 
 ---
 
