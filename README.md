@@ -57,7 +57,7 @@ Le budget de réalisation est estimé à **15 200 € HT** (sur une base TJM moy
 
 ### Roadmap (Gantt)
 
-***prochainement***
+![Gantt](assets/diagramme_gantt_chronogramme.png)
 ---
 
 ## 💻 Stack Technique (Architecture Cible)
