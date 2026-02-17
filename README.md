@@ -36,7 +36,7 @@ Ce projet a été mené en suivant les standards de la gestion de projet informa
 ### 1. Cartographie des Parties Prenantes
 Identification des acteurs clés (Investisseurs, CTO) et stratégie de gestion.
 
-*(Insère ton image de matrice ici, ex: `![Matrice](assets/matrice_pouvoir.png)`)*
+![Matrice_pouvoir_interet](assets/matrice_pouvoir_interet.png)
 
 ### 2. Modélisation du besoin (UML)
 Vue d'ensemble des interactions entre le Recruteur, le Candidat et le Système automatisé.
