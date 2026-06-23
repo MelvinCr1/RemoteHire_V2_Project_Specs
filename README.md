@@ -13,9 +13,9 @@
 Ce projet couvre l'intégralité de la phase de **Cadrage et Pilotage** pour la transition vers la **V2**.
 
 **Objectifs clés :**
-* 🚀 **Industrialisation :** Automatisation des imports (CSV) et gestion multi-offres.
-* 💰 **Monétisation :** Intégration d'un système de paiement et passage au modèle SaaS.
-* 🔒 **Fiabilité :** Sécurisation des données (RGPD) et architecture robuste.
+* **Industrialisation :** Automatisation des imports (CSV) et gestion multi-offres.
+* **Monétisation :** Intégration d'un système de paiement et passage au modèle SaaS.
+* **Fiabilité :** Sécurisation des données (RGPD) et architecture robuste.
 
 ---
 
@@ -77,7 +77,7 @@ Pour répondre aux exigences de performance (ENF), l'architecture retenue est la
 
 Le Cahier des Charges détaillé est disponible au format PDF.
 
-[**➡️ Télécharger le Cahier des Charges (PDF)**](4CACH_cahier_des_charges_RemoteHireV2.pdf)
+[**Télécharger le Cahier des Charges (PDF)**](4CACH_cahier_des_charges_RemoteHireV2.pdf)
 
 ---
 
